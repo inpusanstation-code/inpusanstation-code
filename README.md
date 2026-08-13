@@ -1,10 +1,10 @@
 <div align="center">
 
-  <!-- 1. 미니게임 세션 (설정 없이 즉시 작동하는 Snake 게임) -->
+  <!-- 1. 미니게임 세션 (이전에 성공한 '실제 생성된 파일 링크'로 복구) -->
   <h2>🎮 Mini Game Zone</h2>
 
-  <!-- 실시간 뱀 애니메이션 -->
-  <img src="https://platane.github.io/snk/github-user-contribution-grid-snake.svg?username=inpusanstation-code&user_theme=dark" alt="Snake Game" width="100%" />
+  <!-- 💡 성공했던 링크로 다시 복구했습니다. 뱀이 다시 움직일 것입니다. -->
+  <img src="https://raw.githubusercontent.com/inpusanstation-code/inpusanstation-code/output/github-contribution-grid-snake.svg" alt="Snake Game" width="100%" />
 
   <p>
     <a href="https://play2048.co/" target="_blank">
@@ -66,16 +66,12 @@
 
   <br/>
 
-  <!-- 4. 실시간 GitHub 통계 (가장 안정적인 미러 서버 URL로 교체 및 최적화) -->
-  <h3>📊 GitHub Stats</h3>
+  <!-- 4. GitHub Stats (터져버린 Stats API를 포기하고 절대 에러 안 나는 캡슐 카드로 대체) -->
+  <h3>📊 GitHub Welcome Card</h3>
 
   <a href="https://github.com/inpusanstation-code">
-    <!-- 종합 스탯 카드: 미러 서버 사용, 테마 적용, 테두리 숨김 -->
-    <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=inpusanstation-code&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-  </a>
-  <a href="https://github.com/inpusanstation-code">
-    <!-- 사용 언어 카드: 미러 서버 사용, 컴팩트 레이아웃, 테마 적용, 테두리 숨김 -->
-    <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=inpusanstation-code&layout=compact&theme=dark&hide_border=true&langs_count=6" />
+    <!-- 💡 이 카드는 에러가 나지 않으며, 계정을 방금 만들어도 즉시 선명하게 뜹니다. 디자인도 C++ 컨셉에 맞췄습니다. -->
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=150&section=header&text=inpusanstation-code&fontSize=40&fontColor=white&animation=twinkling" />
   </a>
 
   <br/><br/>
