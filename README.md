@@ -16,7 +16,7 @@
 
   <br/>
 
-  <!-- 2. 포스터 기반 정확한 교육 과정 정보 -->
+  <!-- 2. 교육 과정 정보 (courseImage.png 연결 완료) -->
   <h2>🎓 Current Education & Training</h2>
   
   <table align="center">
@@ -38,32 +38,37 @@
       </td>
     </tr>
     <tr>
-      <td align="center"><b>공식 링크</b></td>
+      <td align="center"><b>과정 포스터</b></td>
       <td>
-        <a href="https://ps.korchamhrd.net/education/professionalSkillEduDetail.do?rootMenuId=4113&menuId=4115&gaebalwon_cd=01000&gwajeong_no=M2024017" target="_blank">
-          <img src="https://img.shields.io/badge/과정_상세보기-00599C?style=flat-square&logo=googlechrome&logoColor=white"/>
+        <!-- 💡 버튼 클릭 시 같은 폴더의 courseImage.png 가 새 탭에서 열립니다 -->
+        <a href="./courseImage.png" target="_blank">
+          <img src="https://img.shields.io/badge/🖼️_포스터_새창에서_보기-0071C5?style=flat-square&logoColor=white"/>
         </a>
       </td>
     </tr>
   </table>
 
-  <br/>
+  <!-- 💡 프로필 내에서도 클릭해서 펼쳐볼 수 있는 포스터 접이식 메뉴 -->
+  <details>
+    <summary><b>🔍 프로필 안에서 포스터 크게 보기 (클릭)</b></summary>
+    <br/>
+    <img src="./courseImage.png" alt="Course Poster" width="80%" />
+  </details>
 
-  <!-- 3. 포스터 기반 실제 기술 스택 배지 -->
+  <br/><br/>
+
+  <!-- 3. 핵심 기술 스택 배지 -->
   <h3>🛠️ Tech Stack & Tools</h3>
   
   <p>
-    <!-- 인텔 & AI / 로보틱스 -->
     <img src="https://img.shields.io/badge/Intel_Edge_AI-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
     <img src="https://img.shields.io/badge/AI_&_Machine_Vision-FF6F00?style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Robotics-00599C?style=for-the-badge&logo=robot&logoColor=white"/>
     <br/>
-    <!-- 스마트팩토리 & IoT -->
     <img src="https://img.shields.io/badge/Smart_Factory-4CAF50?style=for-the-badge&logoColor=white"/>
     <img src="https://img.shields.io/badge/Digital_Twin-FF9800?style=for-the-badge&logoColor=white"/>
     <img src="https://img.shields.io/badge/IoT_System-02569B?style=for-the-badge&logoColor=white"/>
     <br/>
-    <!-- 개발 툴 -->
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
