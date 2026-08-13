@@ -1,9 +1,8 @@
 <div align="center">
 
-  <!-- 1. 미니게임 세션 (이전에 성공한 '실제 생성된 파일 링크'로 복구) -->
+  <!-- 1. 미니게임 세션 (성공한 링크 복구 상태 유지) -->
   <h2>🎮 Mini Game Zone</h2>
 
-  <!-- 💡 성공했던 링크로 다시 복구했습니다. 뱀이 다시 움직일 것입니다. -->
   <img src="https://raw.githubusercontent.com/inpusanstation-code/inpusanstation-code/output/github-contribution-grid-snake.svg" alt="Snake Game" width="100%" />
 
   <p>
@@ -66,17 +65,17 @@
 
   <br/>
 
-  <!-- 4. GitHub Stats (터져버린 Stats API를 포기하고 절대 에러 안 나는 캡슐 카드로 대체) -->
+  <!-- 4. GitHub Stats (안정적인 Capsule Render 카드 유지) -->
   <h3>📊 GitHub Welcome Card</h3>
 
   <a href="https://github.com/inpusanstation-code">
-    <!-- 💡 이 카드는 에러가 나지 않으며, 계정을 방금 만들어도 즉시 선명하게 뜹니다. 디자인도 C++ 컨셉에 맞췄습니다. -->
     <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=150&section=header&text=inpusanstation-code&fontSize=40&fontColor=white&animation=twinkling" />
   </a>
 
   <br/><br/>
 
-  <!-- 5. 방문자 수 카운터 -->
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Finpusanstation-code&count_bg=%2300599C&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+  <!-- 5. 방문자 수 카운터 (에러 안 나는 새 서비스로 교체) -->
+  <!-- 💡 절대 깨지지 않고 계정 이름이 선명하게 표시되는 'komarev/github-tag-counts' 배지로 대체했습니다. -->
+  <img src="https://komarev.com/ghpvc/?username=inpusanstation-code&color=00599C&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
