@@ -16,7 +16,7 @@
 
   <br/>
 
-  <!-- 2. 교육 과정 정보 (courseImage.png 연결 완료) -->
+  <!-- 2. 교육 과정 정보 -->
   <h2>🎓 Current Education & Training</h2>
   
   <table align="center">
@@ -38,24 +38,19 @@
       </td>
     </tr>
     <tr>
-      <td align="center"><b>과정 포스터</b></td>
+      <td align="center"><b>포스터</b></td>
       <td>
-        <!-- 💡 버튼 클릭 시 같은 폴더의 courseImage.png 가 새 탭에서 열립니다 -->
-        <a href="./courseImage.png" target="_blank">
-          <img src="https://img.shields.io/badge/🖼️_포스터_새창에서_보기-0071C5?style=flat-square&logoColor=white"/>
-        </a>
+        <!-- 💡 클릭 시 새 창 이동 없이 그 자리에서 바로 펼쳐집니다 -->
+        <details>
+          <summary><b>🔍 과정 상세보기</b></summary>
+          <br/>
+          <img src="./courseImage.png" alt="Course Poster" width="100%" />
+        </details>
       </td>
     </tr>
   </table>
 
-  <!-- 💡 프로필 내에서도 클릭해서 펼쳐볼 수 있는 포스터 접이식 메뉴 -->
-  <details>
-    <summary><b>🔍 프로필 안에서 포스터 크게 보기 (클릭)</b></summary>
-    <br/>
-    <img src="./courseImage.png" alt="Course Poster" width="80%" />
-  </details>
-
-  <br/><br/>
+  <br/>
 
   <!-- 3. 핵심 기술 스택 배지 -->
   <h3>🛠️ Tech Stack & Tools</h3>
