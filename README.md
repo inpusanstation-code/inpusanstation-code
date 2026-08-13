@@ -1,10 +1,10 @@
 <div align="center">
 
-  <!-- 1. 미니게임 세션 -->
+  <!-- 1. 미니게임 세션 (설정 없이 즉시 작동하는 Snake 게임) -->
   <h2>🎮 Mini Game Zone</h2>
 
-  <!-- Snake Game SVG (GitHub Actions 세팅 후 렌더링됨) -->
-  <img src="https://raw.githubusercontent.com/inpusanstation-code/inpusanstation-code/output/github-contribution-grid-snake.svg" alt="Snake Game" width="100%" />
+  <!-- 실시간 뱀 애니메이션 -->
+  <img src="https://platane.github.io/snk/github-user-contribution-grid-snake.svg?username=inpusanstation-code&user_theme=dark" alt="Snake Game" width="100%" />
 
   <p>
     <a href="https://play2048.co/" target="_blank">
@@ -66,14 +66,16 @@
 
   <br/>
 
-  <!-- 4. 실시간 GitHub 통계 (아이디 적용 완료) -->
+  <!-- 4. 실시간 GitHub 통계 (가장 안정적인 미러 서버 URL로 교체 및 최적화) -->
   <h3>📊 GitHub Stats</h3>
 
   <a href="https://github.com/inpusanstation-code">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=inpusanstation-code&show_icons=true&theme=dark&hide_border=true" />
+    <!-- 종합 스탯 카드: 미러 서버 사용, 테마 적용, 테두리 숨김 -->
+    <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=inpusanstation-code&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
   </a>
   <a href="https://github.com/inpusanstation-code">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inpusanstation-code&layout=compact&theme=dark&hide_border=true&langs_count=6" />
+    <!-- 사용 언어 카드: 미러 서버 사용, 컴팩트 레이아웃, 테마 적용, 테두리 숨김 -->
+    <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=inpusanstation-code&layout=compact&theme=dark&hide_border=true&langs_count=6" />
   </a>
 
   <br/><br/>
